@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f930513.css",
-    "main.js": "/static/js/main.c1f2885e.js",
+    "main.js": "/static/js/main.c9378ba4.js",
     "static/media/blueprint2.mp4": "/static/media/blueprint2.ed52921ae542e9c4bcda.mp4",
     "static/media/Guduvancheri.png": "/static/media/Guduvancheri.26e2ee58b4d4ec70c40b.png",
     "static/media/Enclave.png": "/static/media/Enclave.e615ffcf39eafeac8eb4.png",
@@ -49,10 +49,10 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.9f930513.css.map": "/static/css/main.9f930513.css.map",
-    "main.c1f2885e.js.map": "/static/js/main.c1f2885e.js.map"
+    "main.c9378ba4.js.map": "/static/js/main.c9378ba4.js.map"
   },
   "entrypoints": [
     "static/css/main.9f930513.css",
-    "static/js/main.c1f2885e.js"
+    "static/js/main.c9378ba4.js"
   ]
 }
